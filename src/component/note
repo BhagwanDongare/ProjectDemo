@@ -1,0 +1,1032 @@
+What is React
+React is Javascript Library.
+The main focus is building UI as fast as possible.
+So this is Used to Single Page Application.
+Means Complete Website in Single Page. 
+
+Why React is Fast
+React Use Virtual Dom
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
+Virtual Dom
+
+Update Only
+
+Required List
+
+Real Dom
+
+Update Complete
+
+List
+
+
+Why Learn React 
+Maintained by Facebook so it will Long Term Player in the Market.
+ 
+Hight Demand due to fast Speed.
+ 
+Large Community for your support.
+ 
+Mobile App Development with React-Native.
+
+History & Version 
+Maintained by Facebook.
+ 
+First Release on 29 May 2013.
+ 
+The current version is 17.0.2
+ 
+Apps with React is  :
+NetFlix,
+Whatsapp Web,
+Instagram
+Airbnb etc
+
+React prerequisites
+Html, CSS, Javascript.
+ 
+ ES6 understanding will make you comfortable with ReactJs.
+ 
+This course is from Scratch so don't worry and Relex :)   
+
+Why Choose My React Tutorial
+Interview Question with Every Topic
+
+Example and use of every topics
+
+Get answers on insta or comment box
+
+ Live Question answer on every Saturday At 8 PM
+
+Ask Question on Insta  @code.steps
+
+Topic and upcoming Video 
+React setup and Installation
+React basic
+React Hooks
+React Routing
+React Advance
+API with react
+React and Redux
+React js Project
+Interview Question and Qn A 
+Ask Question on Insta  @php.step.by.step
+
+React js without Installation
+React is Generally used with NPM
+ 
+But we can also use CDN
+ 
+Make Example with React CDN
+ 
+Interview Question
+ 
+Ask Question on Insta  @php.step.by.step
+
+React js Environment up with Ubuntu
+Install Node and NPM
+ 
+Install VS code editor
+ 
+Install the CRA app
+ 
+Interview Question
+ 
+Answer of the Last Interview Question
+ 
+Ask Question on Insta  @php.step.by.step
+
+React js Environment up with Windows
+Install Node and NPM
+ 
+VS code editor
+ 
+Install the CRA app
+ 
+Interview Question
+ 
+Answer of the Last Interview Question
+ 
+Ask Question on Insta  @php.step.by.step
+
+React js App Structure
+Understand File  use and structure
+ 
+Understand Folder use and structure
+ 
+Interview Question
+ 
+The answer of the Last Interview Question
+ 
+Join on Insta  @php.step.by.step
+
+Package.json file in Details
+What is package.json
+ 
+How to add new npm package
+ 
+Remove npm package
+ 
+Custom commands
+ 
+Join on Insta  @php.step.by.step
+
+Component in React js
+What is component
+ 
+Type of component
+ 
+Example of component
+ 
+Interview Question and Answer
+ 
+Join on Insta  @php.step.by.step
+
+Component
+A piece of code that can reuse
+ 
+Such as Function
+ 
+But more powerful than function
+ 
+Header, Footer is best example
+
+Component Type
+Functional Component
+ 
+Class Component
+ 
+HOC (Hight order component)
+ 
+Pure Component
+ 
+Controlled Component
+ 
+Uncontrolled Component
+
+Class Component
+What is Component
+ 
+Make Class Component
+ 
+Interview Question
+ 
+The answer to the last Interview Question
+ 
+Join on Insta  @php.step.by.step
+
+JSX with React
+Javascript xml (JSX)
+ 
+Write HTML and javascript together
+ 
+Use Like HTML or XML tags
+ 
+React without JSX
+ 
+The answer to the last Interview Question
+ 
+Join on Insta  @php.step.by.step
+
+Click Event and Function 
+How to make click event
+ 
+Call function in the button click
+ 
+Variable in functional Component
+ 
+The answer to the last Interview Question
+ 
+New Interview Question
+ 
+Join on Insta  @php.step.by.step
+
+State in Class Component
+Make Class Component
+ 
+What is state
+ 
+Define state
+ 
+Update state with a Button click
+ 
+Interview Question
+ 
+Join on Insta  @php.step.by.step
+
+Props with Functional Component
+What are props
+ 
+Use of props
+ 
+Example with functional component
+ 
+Update props on Button click
+ 
+Interview Question
+ 
+Join on Insta  @php.step.by.step
+
+Props with Class Component
+What are props
+ 
+Use of props
+ 
+Example with class component
+ 
+Update props on Button click
+ 
+Interview Question
+ 
+Join on Insta  @php.step.by.step
+
+Get Input box value
+Make Input field
+ 
+Make function and get Value
+ 
+Make button and state
+ 
+Get value on Button Click
+ 
+Interview Question
+ 
+Join on Insta  @php.step.by.step
+
+Hide and Show Element
+Make A div or any other element
+ 
+Make State for hiding and show element
+ 
+Make Button
+ 
+Update state on button click
+ 
+Interview Question
+ 
+Join on Insta  @php.step.by.step
+
+Basic Form
+Make HTML form
+ 
+Add some field
+ 
+Use state for field data
+ 
+Submit and control form
+ 
+Interview Question
+ 
+Join on Insta  @php.step.by.step
+
+Conditional rendering | If Condition
+Make Component
+ 
+Use State
+ 
+Not Recommended Way for condition
+ 
+Correct way condition
+
+ 
+Interview Question
+ 
+Join on Insta  @php.step.by.step
+
+Basic Form Validation
+Make Component
+ 
+Make HTML Form
+ 
+Define States
+ 
+Apply Validation
+ 
+Interview Question
+ 
+Join on Insta  @php.step.by.step
+
+Life Cycle Methods
+
+
+Life Cycle Method in React
+
+
+Life Cycle Method in React
+When Component is loaded
+ 
+When Component is updated
+with state and props.
+ 
+When Component is removed.
+ 
+Interview Question.
+ 
+Join on Insta  @php.step.by.step
+
+Constructor Life Cycle Method
+What is constructor?
+ 
+Why this is important?
+ 
+what we can do in this life cycle method?
+ 
+Interview Question.
+ 
+Join on Insta  @php.step.by.step
+
+Render, Life cycle method
+Use of render Method.
+ 
+Make Class component.
+ 
+Use state and props with render.
+ 
+Interview Question.
+ 
+Join on Insta  @php.step.by.step
+
+componentDidMount ,
+Life cycle method
+Use of componentDidMount Method.
+ 
+Make Class component.
+ 
+No Effect of state and props.
+ 
+Interview Question.
+ 
+Join on Insta  @php.step.by.step
+
+componentWillUnmount
+Life Cycle Method
+When component will unmount called.
+ 
+Example of component will unmount.
+ 
+Use of component will unmount.
+ 
+Interview Question.
+ 
+Join on Insta  @php.step.by.step
+
+Hooks in React Js
+What are hooks in ReactJs
+ 
+How to use them
+ 
+Example of React Hooks with useState
+ 
+Interview Question.
+ 
+Join on Insta  @php.step.by.step
+
+useEffect in React Js
+What is useEffect
+ 
+How to use useEffect
+ 
+Example useEffect
+ 
+useEffect with State and props
+ 
+Interview Question.
+ 
+Join on Insta  @php.step.by.step
+ 
+
+useEffect Like componentDidMount
+What is useEffect
+ 
+Stop calling useEffect on Update
+ 
+Example useEffect.
+ 
+Interview Question.
+ 
+Join on Insta  @php.step.by.step
+ 
+
+useEffect with Specific
+State and Props
+What is useEffect
+ 
+useEffect with Specific state
+ 
+useEffect with Specific props
+ 
+Interview Question.
+ 
+Join on Insta  @php.step.by.step
+ 
+
+Style Type in React js
+How Many ways we have for style in React js
+ 
+Use the normal stylesheet
+ 
+Style with the variable or Inline Style
+ 
+CSS with Module.
+ 
+Interview Question.
+ 
+Join on Insta  @php.step.by.step
+ 
+
+Install Bootstrap
+What is Bootstrap
+ 
+Install Bootstrap
+ 
+Use and register bootstrap
+ 
+Example with bootstrap component
+ 
+Interview Question.
+ 
+Join on Insta  @php.step.by.step
+ 
+
+Handle Array with List
+Make an array.
+ 
+Why use map function, not for loop.
+ 
+Make List with an array.
+ 
+Make List with an array of objects.
+ 
+Interview Question.
+ 
+Join on Insta  @php.step.by.step
+ 
+
+List With Bootstrap
+and Unique Key
+Make List from array
+ 
+What is Unique key in loop?
+ 
+Install Bootstrap
+ 
+Use Bootstrap table with loop.
+ 
+How to add condtion in Lopp
+ 
+Interview Question.
+ 
+Join on Insta  @php.step.by.step
+ 
+
+Nested List
+with Nested Array
+Make Nested Array
+ 
+Understand Nested Array
+ 
+Use the Map function
+ 
+Use Nested Map function
+ 
+Interview Question.
+ 
+Join on Insta  @php.step.by.step
+ 
+
+Reuse Component
+Make a component
+ 
+Make a list from the array
+ 
+Use component inside map function
+ 
+Interview Question.
+ 
+Join on Insta  @php.step.by.step
+ 
+
+React Fragment
+What is React Fragment?
+ 
+How to use it?
+ 
+Use it with child component.
+ 
+Interview Question.
+ 
+Join on Insta  @php.step.by.step
+ 
+
+Send Data Child to Parent Component
+Make a child component?
+ 
+How Pass Props parent to a child component?
+ 
+Send data child to parent?
+ 
+Interview Question.
+ 
+Join on Insta  @php.step.by.step
+ 
+
+Pure Component
+What is Pure Component?
+How to use the Pure component?
+Pure Component example with State
+Pure Component example with props?
+Interview Question.
+Join on Insta  @php.step.by.step
+ 
+
+useMemo Hook in React js
+Why use useMemo Hook?
+Understand Problem 
+Apply useMemo?
+Interview Question.
+Join on Insta  @php.step.by.step
+ 
+
+Ref in React js
+Why use Ref
+Make Class Component?
+Ref use with example  
+Interview Question.
+Join on Insta  @php.step.by.step
+ 
+
+useRef in React js
+Why use useRef
+Ref use with example  
+Focus, color, value  etc handle with useRef.
+Interview Question.
+Join on Insta  @php.step.by.step
+ 
+
+forwardRef in React js
+Why use forwardRef.
+Make Child Component.
+Pass Ref with props and use it.
+Interview Question.
+Join on Insta  @php.step.by.step
+ 
+
+Simple HOC
+What is HOC (Hight order component) ?
+Make 2 Components.
+Example of HOC.
+Interview Question.
+Join on Insta  @php.step.by.step
+
+Routing Setup 
+What is Routing
+Make 2 components.
+Install Route Package
+Make Page
+Interview Question.
+Join on Insta  @php.step.by.step
+
+Routing Example with Best Practices
+Use React Router wrapper in index.js
+Navbar file for Link
+Components in Separate Files
+Complete example.
+Interview Question
+Join on Insta  @php.step.by.step
+
+404 Page - Page Not Found
+Import React Router
+Make Simple Routing
+Add 404 Page
+Interview Question
+Join on Insta  @php.step.by.step
+
+Dynamic Routing with Params
+What is Dynamic Routing
+Make List with users Data
+Add Routing
+Make Dynamic Routing
+Interview Question
+Join on Insta  @php.step.by.step
+Postman
+What is Postman
+How to install it
+How to use it
+Test API
+Interview Question
+Join on Insta  @php.step.by.step
+
+Call Get Method API
+What is API?
+Call API?
+Get API data in State
+Make List from API
+Join on Insta  @php.step.by.step
+
+POST Method with API
+Why we use the POST Method?
+Make A form.
+Submit Data to API
+Test Result.
+Interview Question
+Join on Insta  @php.step.by.step
+
+Delete Method with API
+Why we use the Delete Method?
+Add Delete Button in List.
+Make function and call delete API.
+Interview Question
+Join on Insta  @php.step.by.step
+
+Pre-filled Form
+Make a simple form.
+Add Update Button in list
+Set values in list
+Populate values in form
+Interview Question
+Join on Insta  @php.step.by.step
+
+Update Data with PUT Method
+Recap Last Video
+Update states for updated data
+Send Data with PUT API
+Test Result
+Interview Question
+Join on Insta  @php.step.by.step
+
+Previous State in Functional Component
+What is Previous State
+Why we need it
+How to get it and use it 
+Another important and tricky example
+Interview Question
+Join on Insta  @php.step.by.step
+
+Previous Props with Hooks
+What is Previous Props?
+Why we need it?
+How to get it and use it?
+we will use useRef Hooks for it.
+Interview Question
+Join on Insta  @php.step.by.step
+
+State with Object
+Make a state with Object?
+Try to update and understand the Problem?
+Resolved it in 2 ways  
+Interview Question
+Join on Insta  @php.step.by.step
+
+Basic Interview Question
+React Js
+What is React js
+
+React is a javascript library.
+Use for Front end development with good speed
+developed by Facebook 
+The current version is 17.0.1
+ 
+
+
+Basic Interview Question
+React Js
+What is component
+
+A piece of code that can resue like function
+but more powerful than function
+2 Types
+Class and functional component.
+ 
+
+
+Basic Interview Question
+React Js
+What is class component?
+
+A Component that has ES 6 class
+More Complex and powerful than functional component.
+Because it has a lifecycle method and state.
+No need to use Hooks.
+ 
+
+
+Basic Interview Question
+React Js
+What is Functional component?
+
+A Component that has no ES 6 class. It uses a simple JS function.
+Simple and need hooks for performing states and life cycle methods.
+Simple to define and recommened.
+ 
+
+
+Basic Interview Question
+React Js
+What is State?
+
+Information Holder inside component and it store any data like a variable
+When we update state component will rerender again but not in case of variable.
+We can not use state outside to component
+ 
+
+
+Basic Interview Question
+React Js
+What is Props?
+
+Share data between component
+We can send data parent to child ,child to parent, and in sibling component
+We can not change props in receiving component
+
+Basic Interview Question
+React Js
+What is Life Cycle Method?
+
+Some Method will execute on the component mount, update and unmount we call them life cycle method.
+Example:
+componentDidMount,
+componentDIdUpate,
+shouldComponentUpdate
+
+Basic Interview Question
+React Js
+What are the Hooks?
+
+Functional component do not have state and life cycle method.
+To use state and life cycle method we can import hooks in functional compoent 
+we can not use Hooks inside functiona component.
+
+Basic Interview Question
+React Js
+What are the useState?
+
+This is a hook for use state in functional component.
+Example is below.
+const [data,setData]=React.useState("default value")
+
+Basic Interview Question
+React Js
+What is useEffect?
+
+This is a hook for use lifecycle methods in a functional components.
+Example is below.
+React.useEffect(()=>{
+//some work
+})
+
+Interview Question React Js
+What is NPM
+
+This is Node Package Manager which help us to install Library in React js
+like map, form validation etc
+npm install package-name
+npm uninstall package-name
+
+Interview Question React Js
+
+Part-2
+What is Package.json?
+
+This file profile application details such as version, node package, description etc
+npm install package-name
+npm uninstall package-name
+
+Interview Question React Js
+ 
+Can we use react js without npm?
+
+Yes, we can use it like jquery also. for that we can import in in root file aur use cdn
+
+Interview Question React Js
+
+ 
+What we need to Develop React App?
+
+For the Recommended way we need,npm node, and any code editor.
+Otherwise we can use CDN also
+
+Interview Question React Js
+ 
+Can we use Ts with React js
+
+Yes, we can
+
+Interview Question React Js
+ 
+Can we use Jquery, angular, and Bootstrap with React js?
+
+Yes, we can.
+We can install packages for jquery and bootstrap.
+We can use react package inside angular with npm install 
+ 
+
+
+Interview Question React Js
+Can we connect react with the database Directly?
+No, We need API for DB data.
+
+Interview Question React Js
+ 
+What is SPA .
+It stands for Single Page Application
+which means Application look like single page and No reload or refresh on jumping on other page and Link.
+We can make single page application with react,angular and Vue
+
+Interview Question React Js
+ 
+Write A simple component in React.js
+
+ 
+
+ 
+
+ 
+
+import React from 'react'
+function Apple()
+{
+return(
+<div><h1>Code Step By step</h1></div>)
+}
+
+export Apple
+
+Interview Question React Js
+What is Jest?
+Jest is a Unit Testing framework
+Jest is Recommended and easy to use with react js 
+ 
+
+
+Interview Question React Js
+
+Interview Question React Js
+Can we Make multiple components in the Same File
+Yes we can
+ 
+
+
+Interview Question React Js
+Can we Make components inside Component
+Yes we can
+ 
+
+
+Interview Question React Js
+How to Render Component Conditionally
+ 
+
+
+Interview Question React Js
+Can we use Let, var and const instead State and Props 
+
+Interview Question React Js
+What are the High Order Components?
+A component is a function that takes a component as a parameter and returns a component as output
+
+Interview Question React Js
+What is the Controlled Component?
+A component that have a input form and these input fields controlled by react state.
+
+Interview Question React Js
+What is the uncontrolled Component?
+A component that has an input form and these input fields controlled by ref or DOM.
+
+Interview Question React Js
+What is the pure Component?
+Pure Components in React are the components which do not re-renders when the value of state and props has been updated with the same values
+
+Interview Question React Js
+Can we pass HTML content as props in component
+Yes
+
+Interview Question React Js
+Dumb Components
+A Dumb Component can very easily be defined as a stateless functional component
+
+Interview Question React Js
+What are the life cycle methods?
+Predefined methods of component that can monitor and update component.
+
+Interview Question React Js
+What are the phases of life cycle methods?
+Mounting
+Updating
+Unmounting
+
+Interview Question React Js
+When a life cycle method will run and what we can do inside a life cycle method?
+When a component create, update or remove that time life cycle method will call
+We can update state, update variable , call API etc. 
+
+Interview Question React Js
+Call useEffect when component is created only
+
+Interview Question React Js
+Call useEffect when any state or props will update?
+
+Interview Question React Js
+Call useEffect when component is unmounted 
+
+Interview Question React Js
+How can use effect make an infinite loop  and how to solve this propblem  
+
+Interview Question React Js
+Can we make more than one useEffect in one component? 
+
+Interview Question React Js
+Make useEffect on button click
+
+Interview Question React Js
+When useEffect hook is introduced?
+in React 16.3
+Can we use Hooks in Class component 
+No
+
+React 18
+How to install React 18
+Automatic batching
+start transition
+Suspense
+When React 18 is available 
+ 
+
+
+React 18 Suspense
+SSR and Issue
+Loading Some Data from Server Side
+But that time App not working
+Because First HTML and CSS load then JS will load
+The suspense will show some default data or loader
+ 
+
+
+React Context API with Hooks
+What is Conext API?
+Why do we need hook for Conext API?
+Make Child component
+Child to parent data communication 
+Example
+ 
+
+ 
+
+
+React Context API with Hooks
+
+React js Interview Question
+10 Questions on Component Communication
+
+Component Communication
+Pass data between Components called Component Communcation
+Child(B)
+
+Sibling(C)
+
+Component(A)
+
+
+Role of Props in Component Communication
+Only with Props we can send send data between Component
+Props are read only
+Sibling(C)
+
+Component(A)
+
+
+What is Lifting up State
+Sending data to parent component is Lifting up state
+We can do it only props , state can not access outisde the component
+Sibling(C)
+
+Component(A)
+
+
+How to send data parent to child component
+<h1>{props.x}</h1>
+
+<Child x={x}
+
+
+Send function parent
+to child component
+
+How to send data
+Child to Parent
+component
+
+How to send Component
+Parent to Child
+Component
+
+Reuse Component
+in Loop
+
+Conditional component
+in Loop
+
+

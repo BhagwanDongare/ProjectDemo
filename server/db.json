@@ -1,0 +1,6 @@
+{
+  "users": [
+    { "id": 1, "name": "Bhagwan Dongare", "age": 5, "city": "pune" },
+    { "id": 2, "name": "Rahul Dongare", "age": 5, "city": "Beed" }
+  ]
+}

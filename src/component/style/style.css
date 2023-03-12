@@ -1,0 +1,10 @@
+.primary {
+  padding: 10px;
+  background-color: crimson;
+}
+
+.secondary {
+  color: rgb(244, 244, 248);
+  background-color: chartreuse;
+  font-weight: 900;
+}

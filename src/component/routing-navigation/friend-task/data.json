@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "aaaaaa",
+    "mobile": "777777777",
+    "email": "a@gmail.com",
+    "city": "Pune",
+    "avatar": "images/nature-love.jpg"
+  },
+  {
+    "id": 2,
+    "name": "bbbbbb",
+    "mobile": "11111111111",
+    "email": "b@gmail.com",
+    "city": "Beed",
+    "avatar": "images/nature-love.jpg"
+  },
+  {
+    "id": 3,
+    "name": "ccccc",
+    "mobile": "8888888",
+    "email": "c@gmail.com",
+    "city": "Pune",
+    "avatar": "images/nature-love.jpg"
+  },
+  {
+    "id": 4,
+    "name": "dddddd",
+    "mobile": "2222222",
+    "email": "d@gmail.com",
+    "city": "Mumbai",
+    "avatar": "images/nature-love.jpg"
+  }
+]

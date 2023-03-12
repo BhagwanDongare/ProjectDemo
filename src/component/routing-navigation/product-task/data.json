@@ -1,0 +1,212 @@
+{
+  "laptop": [
+    {
+      "id": 1,
+      "name": "Lap - OnePlus",
+      "desc": "OnePlus 9R 5G (Lake Blue, 8GB RAM, 128GB Storage)",
+      "price": "36,999",
+      "pimg": "/images/nature-love.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Lap - Samsung",
+      "desc": "Samsung Galaxy Note 20 Ultra 5G (Mystic Black, 12GB RAM, 256GB)",
+      "price": "69,999",
+      "pimg": "/images/nature-love.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Lap - Oppo",
+      "desc": "Oppo Reno 6 Pro 5G 256 GB, 12 GB RAM, Stellar Black",
+      "price": "39,990",
+      "pimg": "/images/nature-love.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Lap - Galaxy buds",
+      "desc": "Galaxy Ear Buds Pro | Intelligent ANC with 99% Noise Cancellation, Wireless Charging, 28 Hours Playtime | Black",
+      "price": "9,990",
+      "pimg": "/images/nature-love.jpg"
+    }
+  ],
+  "mobile": [
+    {
+      "id": 1,
+      "name": "Mobile - OnePlus",
+      "desc": "OnePlus 9R 5G (Lake Blue, 8GB RAM, 128GB Storage)",
+      "price": "36,999",
+      "pimg": "/images/nature-love.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mobile - Samsung",
+      "desc": "Samsung Galaxy Note 20 Ultra 5G (Mystic Black, 12GB RAM, 256GB)",
+      "price": "69,999",
+      "pimg": "/images/nature-love.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Mobile - Oppo",
+      "desc": "Oppo Reno 6 Pro 5G 256 GB, 12 GB RAM, Stellar Black",
+      "price": "39,990",
+      "pimg": "/images/nature-love.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Mobile - Galaxy buds",
+      "desc": "Galaxy Ear Buds Pro | Intelligent ANC with 99% Noise Cancellation, Wireless Charging, 28 Hours Playtime | Black",
+      "price": "9,990",
+      "pimg": "/images/nature-love.jpg"
+    }
+  ],
+  "tv": [
+    {
+      "id": 1,
+      "name": "TV - OnePlus",
+      "desc": "OnePlus 9R 5G (Lake Blue, 8GB RAM, 128GB Storage)",
+      "price": "36,999",
+      "pimg": "/images/nature-love.jpg"
+    },
+    {
+      "id": 2,
+      "name": "TV - Samsung",
+      "desc": "Samsung Galaxy Note 20 Ultra 5G (Mystic Black, 12GB RAM, 256GB)",
+      "price": "69,999",
+      "pimg": "/images/nature-love.jpg"
+    },
+    {
+      "id": 3,
+      "name": "TV - Oppo",
+      "desc": "Oppo Reno 6 Pro 5G 256 GB, 12 GB RAM, Stellar Black",
+      "price": "39,990",
+      "pimg": "/images/nature-love.jpg"
+    },
+    {
+      "id": 4,
+      "name": "TV - Galaxy buds",
+      "desc": "Galaxy Ear Buds Pro | Intelligent ANC with 99% Noise Cancellation, Wireless Charging, 28 Hours Playtime | Black",
+      "price": "9,990",
+      "pimg": "/images/nature-love.jpg"
+    }
+  ],
+  "camera": [
+    {
+      "id": 1,
+      "name": "Camera - OnePlus",
+      "desc": "OnePlus 9R 5G (Lake Blue, 8GB RAM, 128GB Storage)",
+      "price": "36,999",
+      "pimg": "/images/nature-love.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Camera - Samsung",
+      "desc": "Samsung Galaxy Note 20 Ultra 5G (Mystic Black, 12GB RAM, 256GB)",
+      "price": "69,999",
+      "pimg": "/images/nature-love.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Camera - Oppo",
+      "desc": "Oppo Reno 6 Pro 5G 256 GB, 12 GB RAM, Stellar Black",
+      "price": "39,990",
+      "pimg": "/images/nature-love.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Camera - Galaxy buds",
+      "desc": "Galaxy Ear Buds Pro | Intelligent ANC with 99% Noise Cancellation, Wireless Charging, 28 Hours Playtime | Black",
+      "price": "9,990",
+      "pimg": "/images/nature-love.jpg"
+    }
+  ],
+  "shoes": [
+    {
+      "id": 1,
+      "name": "Shoes - OnePlus",
+      "desc": "OnePlus 9R 5G (Lake Blue, 8GB RAM, 128GB Storage)",
+      "price": "36,999",
+      "pimg": "/images/nature-love.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Shoes - Samsung",
+      "desc": "Samsung Galaxy Note 20 Ultra 5G (Mystic Black, 12GB RAM, 256GB)",
+      "price": "69,999",
+      "pimg": "/images/nature-love.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Shoes - Oppo",
+      "desc": "Oppo Reno 6 Pro 5G 256 GB, 12 GB RAM, Stellar Black",
+      "price": "39,990",
+      "pimg": "/images/nature-love.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Shoes - Galaxy buds",
+      "desc": "Galaxy Ear Buds Pro | Intelligent ANC with 99% Noise Cancellation, Wireless Charging, 28 Hours Playtime | Black",
+      "price": "9,990",
+      "pimg": "/images/nature-love.jpg"
+    }
+  ],
+  "watches": [
+    {
+      "id": 1,
+      "name": "Watches - OnePlus",
+      "desc": "OnePlus 9R 5G (Lake Blue, 8GB RAM, 128GB Storage)",
+      "price": "36,999",
+      "pimg": "/images/nature-love.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Watches - Samsung",
+      "desc": "Samsung Galaxy Note 20 Ultra 5G (Mystic Black, 12GB RAM, 256GB)",
+      "price": "69,999",
+      "pimg": "/images/nature-love.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Watches - Oppo",
+      "desc": "Oppo Reno 6 Pro 5G 256 GB, 12 GB RAM, Stellar Black",
+      "price": "39,990",
+      "pimg": "/images/nature-love.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Watches - Galaxy buds",
+      "desc": "Galaxy Ear Buds Pro | Intelligent ANC with 99% Noise Cancellation, Wireless Charging, 28 Hours Playtime | Black",
+      "price": "9,990",
+      "pimg": "/images/nature-love.jpg"
+    }
+  ],
+  "home appliances": [
+    {
+      "id": 1,
+      "name": "Home app - OnePlus",
+      "desc": "OnePlus 9R 5G (Lake Blue, 8GB RAM, 128GB Storage)",
+      "price": "36,999",
+      "pimg": "/images/nature-love.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Home app - Samsung",
+      "desc": "Samsung Galaxy Note 20 Ultra 5G (Mystic Black, 12GB RAM, 256GB)",
+      "price": "69,999",
+      "pimg": "/images/nature-love.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Home app - Oppo",
+      "desc": "Oppo Reno 6 Pro 5G 256 GB, 12 GB RAM, Stellar Black",
+      "price": "39,990",
+      "pimg": "/images/nature-love.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Home app - Galaxy buds",
+      "desc": "Galaxy Ear Buds Pro | Intelligent ANC with 99% Noise Cancellation, Wireless Charging, 28 Hours Playtime | Black",
+      "price": "9,990",
+      "pimg": "/images/nature-love.jpg"
+    }
+  ]
+}
