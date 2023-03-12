@@ -1,3 +1,4 @@
 first commit
+second commit
 
-demo commit 
+before stash
